@@ -66,3 +66,8 @@ main {
 .fa-trash-alt {
   color: #de6b5c;
 }
+/* Cœur rouge quand on clique */
+.liked {
+  color: red;
+  transition: color 0.3s ease;
+}
